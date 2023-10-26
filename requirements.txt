@@ -1,0 +1,9 @@
+Django==3.2.5
+Pillow
+django-crispy-forms==1.11.0
+django-embed-video==1.4.0
+django-fontawesome==0.2.1
+django-markdownx==1.0.1
+django-taggit==1.5.1
+django-widget-tweaks==1.4.8
+ 
